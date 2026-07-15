@@ -1,4 +1,4 @@
-# Make Screeencast
+# Make Screencast
 
 
 I took the original code included with Fiji and the error messages displayed and asked Google Gemini to resolve the problem. This was repeated several times till a working version was created.
